@@ -11,14 +11,17 @@
             "id": "53cd93a750f9a663",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2026-04-13.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-04-13"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -199,10 +202,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d568d6f984e494f",
+  "active": "c432f8bc34d1264d",
   "lastOpenFiles": [
-    "2026-04-13.md",
     "Welcome.md",
+    "Home.md",
+    "2026-04-13.md",
     "Untitled.canvas"
   ]
 }
